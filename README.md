@@ -1,22 +1,19 @@
 # Resume-Analyzer
-A Resume Analyzer that extracts and processes key information from resumes.
-<br>
-Uses docx2txt to extract text from .docx files.
-<br>
-Implements NLP techniques to analyze and categorize resume content.
-<br>
-Helps in automated candidate screening by extracting relevant details.
-<br>
+<ul>
+<li>A Resume Analyzer that extracts and processes key information from resumes.</li>
+<li>Uses docx2txt to extract text from .docx files.</li>
+<li>Implements NLP techniques to analyze and categorize resume content.</li>
+<li>Helps in automated candidate screening by extracting relevant details.</li>
+</ul>
 <h2>Features</h2>
-Parses resumes to extract name, contact details, skills, experience, and education.
-<br>
-Supports .docx format for resume files.
-<br>
-Uses Python and Jupyter Notebook for implementation.
-<br>
-Can be integrated into HR or recruitment systems.
-<br>
+<ul>
+<li>Parses resumes to extract name, contact details, skills, experience, and education.</li>
+<li>Supports .docx format for resume files.</li>
+<li>Uses Python and Jupyter Notebook for implementation.</li>
+<li>Can be integrated into HR or recruitment systems.</li>
+</ul>
 <h2>Requirements</h2>
-Python 3.x
-<br>
+<ul>
+<li>Python 3.x</li>
+</ul>
 Libraries: docx2txt, pandas, numpy, re, spacy
