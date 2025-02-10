@@ -19,4 +19,4 @@
 <h2>Libraries</h2>
 <ul>
 <li>docx2txt, pandas, numpy, re, spacy</li>
-</ul>ul>
+</ul>
