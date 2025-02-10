@@ -8,7 +8,6 @@ Implements NLP techniques to analyze and categorize resume content.
 Helps in automated candidate screening by extracting relevant details.
 <br>
 <h2>Features</h2>
-<br>
 Parses resumes to extract name, contact details, skills, experience, and education.
 <br>
 Supports .docx format for resume files.
@@ -18,7 +17,6 @@ Uses Python and Jupyter Notebook for implementation.
 Can be integrated into HR or recruitment systems.
 <br>
 <h2>Requirements</h2>
-<br>
 Python 3.x
 <br>
 Libraries: docx2txt, pandas, numpy, re, spacy
