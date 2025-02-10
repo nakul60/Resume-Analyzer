@@ -16,4 +16,5 @@
 <ul>
 <li>Python 3.x</li>
 </ul>
-Libraries: docx2txt, pandas, numpy, re, spacy
+<h2>Libraries</h2>
+docx2txt, pandas, numpy, re, spacy
